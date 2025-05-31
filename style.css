@@ -1,0 +1,13 @@
+ img _{
+    width: 700px;
+    height: 700px;
+ }
+
+ body {
+    background-color: aqua;
+ }
+
+ .menu a {
+   background-color: yellow;
+   display: block;
+ }
